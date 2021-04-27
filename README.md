@@ -8,6 +8,8 @@ Due to Zomato API Basic Plan restriction, we cannot collect enough data for anal
 
 Data has been collected from the Zomato API in the form of .json files(raw data) using Zomato API and stored in CSV file
 
+Dataset is also provided by the name of ' zomato.csv '
+
 
 !---- Details of zomato.csv ----!
 
